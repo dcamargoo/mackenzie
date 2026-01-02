@@ -1,2 +1,2 @@
 # Mackenzie
-Projetos da faculdade
+Projetos simples da faculdade
